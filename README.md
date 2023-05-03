@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently developing and learning mainly **JavaScript**, with a little bit of **Python** and some other programming languages
 
-- ⚡ Fun fact : **My GitHub codes = 50% Me + 25% StackOverflow + 25% Google**
+- ⚡ Fun fact : **My GitHub codes = 100% AI** (joke)
 
 --- 
 
