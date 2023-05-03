@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/KaarisMoiLeCrane/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/KaarisMoiLeCrane/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
-
+<!-- https://github-readme-stats.vercel.app/api/top-langs?username=KaarisMoiLeCrane&layout=compact&langs_count=10&theme=react -->
 --- 
 
 
