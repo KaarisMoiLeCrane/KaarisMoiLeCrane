@@ -21,7 +21,7 @@
 ### 🔥 My Stats 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=KaarisMoiLeCrane&count_private=true&show_icons=true&theme=react)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KaarisMoiLeCrane&theme=react)
-![My activity](https://github-readme-activity-graph.cyclic.app/graph?username=KaarisMoiLeCrane&theme=react-dark)
+![My activity](https://github-readme-activity-graph.vercel.app/graph?username=KaarisMoiLeCrane&theme=react-dark)
 <a href="https://github.com/KaarisMoiLeCrane/github-stats" style="text-decoration: none;">
 <img src="https://raw.githubusercontent.com/KaarisMoiLeCrane/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/KaarisMoiLeCrane/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
