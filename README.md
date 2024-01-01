@@ -42,17 +42,15 @@
 * [ABitShort](https://github.com/getlost01/linkshortner)
 * [File Share App](https://github.com/getlost01/dlink-share)
 -->
-#### Web Store Extensions 
+#### Web Store Extensions :
 
 * [EcoleDirecte Plus](https://github.com/KaarisMoiLeCrane/EcoleDirecte-Plus)
 * [Discord Plus](https://github.com/KaarisMoiLeCrane/Discord-Plus) (not uploaded yet)
-<!-- 
-#### Frontend Projects :
-* [Quiz App Templates](https://github.com/getlost01/quiz-template)
-* [Country Search](https://github.com/getlost01/country-search)
-* [Portfolio Site](https://github.com/getlost01/portfolio.github.io)
-* [Cure Science Updated](https://github.com/getlost01/CureScience)
--->
+
+#### Algorithmic Problem Solving :
+
+* [France IOI Solutions](https://github.com/KaarisMoiLeCrane/France-IOI-Solutions)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools 
