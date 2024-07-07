@@ -45,6 +45,7 @@
 #### Web Store Extensions :
 
 * [EcoleDirecte Plus](https://github.com/KaarisMoiLeCrane/EcoleDirecte-Plus)
+* [Twitch Plus](https://github.com/KaarisMoiLeCrane/Twitch-Plus)
 * [Discord Plus](https://github.com/KaarisMoiLeCrane/Discord-Plus) (not uploaded yet)
 
 #### Algorithmic Problem Solving :
