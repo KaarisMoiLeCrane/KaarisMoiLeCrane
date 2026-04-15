@@ -8,13 +8,13 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a french high-school student
+- 👨‍💻 I'm a french sophomore at IMT Nord Europe
 
-- 🔭 I’m currently working on **EcoleDirecte Plus**
+- 🔭 I’m currently working on successing my scholar cursus (and **StronGo**)
 
-- 🌱 I’m currently developing and learning mainly **JavaScript**, with a little bit of **Python** and some other programming languages
+- 🌱 I’m currently developing and learning mainly **Kotlin**, with a solid base of **JavaScript**, **C** and some other programming languages
 
-- ⚡ Fun fact : **My GitHub codes = 100% AI**
+- ⚡ Fun fact : **My GitHub codes = 100% AI** (even the oldest ones)
 
 --- 
 
